@@ -1,0 +1,18 @@
+.group1 {
+    float: right;
+}
+
+.btn-group {
+    margin: 1rem 1rem;
+}
+
+.gaps {
+    position: relative;
+    margin-right: 1rem;
+    color: rgb(95, 95, 95);
+}
+
+.check {
+    margin-top: 0.4rem;
+    margin-right: 0.5rem;
+}

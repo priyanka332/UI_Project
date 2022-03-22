@@ -1,0 +1,19 @@
+.sign_in {
+    font-size: 35px;
+    margin-top: 3rem;
+    color: rgb(148, 146, 146);
+}
+
+.case {
+    position: absolute;
+    margin-left: 28rem;
+    margin-top: -1.7rem;
+    font-size: small;
+    color: rgb(87, 82, 82);
+}
+.show {
+    position: absolute;
+    margin-top: -1.8rem;
+    margin-left: 30rem;
+    color: black;
+}
